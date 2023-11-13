@@ -1,0 +1,3 @@
+interface BoxProps {
+    children
+}
